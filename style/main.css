@@ -17,7 +17,7 @@ a {
     width: 1440px;
     margin: 0 auto;
     /* background-color:#FFFFFF; */
-    background-color: red;
+   background-color: red;
 }
 
 .container {
@@ -31,6 +31,7 @@ a {
     gap: 496px;
     position: relative;
     top:45px;
+    margin-left: 112px;
 }
 .ul{
     display: flex;
