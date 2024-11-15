@@ -16,8 +16,8 @@ a {
 .wrap {
     width: 1440px;
     margin: 0 auto;
-    /* background-color:#FFFFFF; */
-   background-color: red;
+    background-color: #FFFFFF;
+
 }
 
 .container {
@@ -25,59 +25,138 @@ a {
     margin: 0 auto;
     padding: 0 15px;
 }
-.count{
+
+.count {
     display: flex;
     align-items: center;
     gap: 496px;
     position: relative;
-    top:45px;
+    top: 45px;
     margin-left: 112px;
 }
-.ul{
+
+.ul {
     display: flex;
-    gap:40px;
+    gap: 40px;
 }
-.h1{
-    color:#000000;
-}
-.link{
+
+.h1 {
     color: #000000;
 }
+
+.link {
+    color: #000000;
+}
+
 /* .main */
-.index1{
+.index1 {
     display: flex;
     gap: 121px;
     margin: 117px 112px 100px 112px;
 }
-.hh1{
+
+.hh1 {
     color: #FF8A56;
     font-size: 72px;
 }
-.hhh1{
+
+.hhh1 {
     font-size: 72px;
 }
-.p1{
+
+.p1 {
     color: #666666;
     margin-top: 27px;
     margin-bottom: 38px;
 }
-.buttonlar{
+
+.buttonlar {
     display: flex;
-    gap:32px;
+    gap: 32px;
 }
-.btn1{
-    background-color:#FFFFFF;
+
+.btn1 {
+    background-color: #FFFFFF;
     border: none;
     padding: 7px 10px;
 }
-.btn1:hover{
+
+.btn1:hover {
     background-color: #000000;
+    color: #FFFFFF;
 }
-.btn2{
-    background-color:#FFFFFF;
+
+.btn2 {
+    background-color: #FFFFFF;
     border: none;
     padding: 7px 10px;
 }
-.btn2:hover{
+
+.btn2:hover {
     background-color: #000000;
+    color: #FFFFFF;
+}
+
+/* .section */
+.css {
+    width: 862px;
+    height: 251.73px;
+    margin-left: 269px;
+    margin-right: 289px;
+
+}
+
+.by {
+    text-align: center;
+    margin-top: 77px;
+    margin-bottom: 45px;
+}
+
+.imglar {
+    display: flex;
+    gap: 100px;
+}
+
+/* .section */
+.ip {
+    text-align: center;
+}
+
+.item {
+    color: #FF5E69;
+    font-size: 22px;
+}
+
+.open {
+    font-size: 52px;
+    margin-bottom: 114px;
+    margin-top: 16px;
+}
+
+.hammasi {
+    width: 1098px;
+    height: 813px;
+
+}
+
+.edit {
+    display: flex;
+    gap: 90px;
+    margin-left: 171px;
+}
+
+.font {
+    width: 306px;
+    height: 381px;
+
+}
+.run1{
+    margin-top: 25px;
+    margin-bottom: 21px;
+}
+.listlar{
+    list-style:outside;
+    font-size: 16px;
+    margin-top: 10px;
+    color: black;
 }
